@@ -40,6 +40,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QueueStack\QueueT.cs" />
+    <Compile Include="QueueStack\StackT.cs" />
     <Compile Include="Sort\SortService.cs" />
   </ItemGroup>
   <ItemGroup />
